@@ -9,3 +9,6 @@ This is an ancient chinese game where two people play one by one. The rules are 
 3. Starting from the black player, both players put the chess pieces on the chessboard one by one.
 
 4. The player who first has 5 consecutive chess piece on the field wins. It could be horizontally, vertically or diagonally consecutive.
+
+![alt tag](https://github.com/runwei/WuziQiChess/blob/master/28.pic_hd.jpg)
+
